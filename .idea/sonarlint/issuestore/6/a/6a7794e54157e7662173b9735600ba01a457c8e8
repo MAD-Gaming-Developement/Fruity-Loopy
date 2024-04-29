@@ -1,0 +1,9 @@
+
+‘
+java:S1450"URemove the "botNav" field and declare it as a local variable in the relevant methods.(øïð¦J$eb90fb3b-4204-42d1-9fee-9d3cb0cef8c6
+x
+java:S1874"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ŽÛŒ þÿÿÿÿJ$5bc85d67-c114-4ced-8d35-61959b9fac10
+s
+java:S1874"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ý›J$48ac3f48-b1d3-4103-9856-c1def2e3b8aa
+m
+java:S18746"KRemove this use of "setOnNavigationItemSelectedListener"; it is deprecated.(“°›€þÿÿÿÿ8ð³òÀò1

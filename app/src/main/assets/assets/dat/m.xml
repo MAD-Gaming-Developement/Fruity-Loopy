@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+	<languages>
+		<language>en</language>
+		<language>sk</language>
+		<language>es</language>
+		<language>cz</language>
+		<language>de</language>
+		<language>it</language>
+		<language>fr</language>
+		<language>ru</language>
+		<language>br</language>
+		<language>tr</language>
+	</languages>
+	<strings>
+		<string id="1" index="0">
+			<en>en</en>
+			<sk>sk</sk>
+			<es>es</es>
+			<cz>cz</cz>
+			<de>de</de>
+			<it>it</it>
+			<fr>fr</fr>
+			<ru>ru</ru>
+			<br>br</br>
+			<tr>tr</tr>
+			<nl>nl</nl>
+		</string>
+		<string id="2" index="1">
+			<en>ENABLE MUSIC?</en>
+			<no>MUSIKK PÅ?</no>
+			<sk/>
+			<es>¿ACTIVAR MÚSICA?</es>
+			<cz/>
+			<de>MUSIK EIN?</de>
+			<it>ABILITARE LA MUSICA?</it>
+			<fr>ACTIVER LA MUSIQUE?</fr>
+			<ru>ВКЛЮЧИТЬ МУЗЫКУ?</ru>
+			<br>ATIVAR MÚSICA?</br>
+			<tr/>
+			<nl>MUZIEK AANZETTEN?</nl>
+		</string>
+		<string id="YES" index="2">
+			<en>YES</en>
+			<no>JA</no>
+			<sk/>
+			<es>SÍ</es>
+			<cz/>
+			<de>JA</de>
+			<it>SÌ</it>
+			<fr>OUI</fr>
+			<ru>ДА</ru>
+			<br>SIM</br>
+			<tr/>
+			<nl>JA</nl>
+		</string>
+		<string id="NO" index="3">
+			<en>NO</en>
+			<no>NEI</no>
+			<sk/>
+			<es>NO</es>
+			<cz/>
+			<de>NEIN</de>
+			<it>NO</it>
+			<fr>NON</fr>
+			<ru>НЕТ</ru>
+			<br>NÃO</br>
+			<tr/>
+			<nl>NEE</nl>
+		</string>
+		<string id="5" index="4">
+			<en>MENU</en>
+			<no>MENY</no>
+			<sk>bb label</sk>
+			<es>MENÚ</es>
+			<cz/>
+			<de>MENÜ</de>
+			<it>MENU</it>
+			<fr>MENU</fr>
+			<ru>МЕНЮ</ru>
+			<br>MENU</br>
+			<tr/>
+			<nl>MENU</nl>
+		</string>
+		<string id="BACK" index="5">
+			<en>BACK</en>
+			<no>TILBAKE</no>
+			<sk>bb label</sk>
+			<es>ATRÁS</es>
+			<cz/>
+			<de>ZURÜCK</de>
+			<it>INDIETRO</it>
+			<fr>RETOUR</fr>
+			<ru>ВЕРНУТЬСЯ</ru>
+			<br>RETORNAR</br>
+			<tr/>
+			<nl>TERUG</nl>
+		</string>
+		<string id="xxxxx0" index="6">
+			<en/>
+			<sk/>
+			<es/>
+			<cz/>
+			<de/>
+			<it/>
+			<fr/>
+			<ru/>
+			<br/>
+			<tr/>
+		</string>
+		<string id="7" index="7">
+			<en>PLAY</en>
+			<no>SPILLE</no>
+			<sk/>
+			<es>JUGAR</es>
+			<cz/>
+			<de>SPIELEN</de>
+			<it>GIOCA</it>
+			<fr>JOUER</fr>
+			<ru>ИГРАТЬ</ru>
+			<br>JOGAR</br>
+			<tr/>
+			<nl>SPEEL</nl>
+		</string>
+		<string id="INSTRUCTIONS" index="8">
+			<en>INSTRUCTIONS</en>
+			<no>INSTRUKSJONER</no>
+			<sk/>
+			<es>INSTRUCCIONES</es>
+			<cz/>
+			<de>ANLEITUNG</de>
+			<it>ISTRUZIONI</it>
+			<fr>INSTRUCTIONS</fr>
+			<ru>ИНСТРУКЦИЯ</ru>
+			<br>INSTRUÇÕES</br>
+			<tr/>
+			<nl>INSTRUCTIES</nl>
+		</string>
+		<string id="SOUNDS" index="9">
+			<en>SOUNDS</en>
+			<no>LYD</no>
+			<sk/>
+			<es>SONIDO</es>
+			<cz/>
+			<de>SOUND</de>
+			<it>SONORO</it>
+			<fr>SONS</fr>
+			<ru>ЗВУКИ</ru>
+			<br>SONS</br>
+			<tr/>
+			<nl>GELUID</nl>
+		</string>
+		<string id="MUSIC" index="10">
+			<en>MUSIC</en>
+			<no>MUSIKK</no>
+			<sk/>
+			<es>MÚSICA</es>
+			<cz/>
+			<de>MUSIK</de>
+			<it>MUSICA</it>
+			<fr>MUSIQUE</fr>
+			<ru>МУЗЫКУ</ru>
+			<br>MÚSICA</br>
+			<tr/>
+			<nl>MUZIEK</nl>
+		</string>
+		<string id="ABOUT" index="11">
+			<en>ABOUT</en>
+			<no>OM</no>
+			<sk/>
+			<es>INFORMACIÓN</es>
+			<cz/>
+			<de>INFO</de>
+			<it>INFO</it>
+			<fr>À PROPOS</fr>
+			<ru>ОБ ИГРЕ</ru>
+			<br>SOBRE</br>
+			<tr/>
+			<nl>OVER</nl>
+		</string>
+		<string id="11000" index="12">
+			<en>MORE GAMES</en>
+			<no>FLERE SPILL</no>
+			<sk/>
+			<es>MÁS JUEGOS</es>
+			<cz/>
+			<de>MEHR SPIELE</de>
+			<it>ALTRI GIOCHI</it>
+			<fr>PLUS DE JEUX</fr>
+			<ru>БОЛЬШЕ ИГР</ru>
+			<br>MAIS JOGOS</br>
+			<tr/>
+			<nl>MEER SPELLEN</nl>
+		</string>
+		<string id="12000" index="13">
+			<en>EXIT?</en>
+			<no>FORLAT?</no>
+			<sk/>
+			<es>¿FINAL?</es>
+			<cz/>
+			<de>ENDE?</de>
+			<it>ESCI?</it>
+			<fr>QUITTER?</fr>
+			<ru>ВЫЙТИ?</ru>
+			<br>ACABAR?</br>
+			<tr/>
+			<nl>AFSLUITEN?</nl>
+		</string>
+		<string id="13000" index="14">
+			<en>QUIT TO MENU</en>
+			<no>SLUTT TIL MENY</no>
+			<sk/>
+			<es>SALIR AL MENÚ</es>
+			<cz/>
+			<de>ZUM MENÜ</de>
+			<it>USCIRE DI MENU</it>
+			<fr>RETOUR AU MENU</fr>
+			<ru>ВЫЙТИ В МЕНЮ</ru>
+			<br>SAIR PARA O MENU</br>
+			<tr/>
+			<nl>AFSLUITEN EN TERUG NAAR MENU</nl>
+		</string>
+		<string id="14000" index="15">
+			<en>QUIT TO MENU?</en>
+			<no>AVSLUTT TIL MENY?</no>
+			<sk/>
+			<es>¿SALIR AL MENÚ?</es>
+			<cz/>
+			<de>ZUM MENÜ?</de>
+			<it>USCIRE DI MENU?</it>
+			<fr>RETOUR AU MENU?</fr>
+			<ru>ВЫЙТИ В МЕНЮ?</ru>
+			<br>SAIR PARA O MENU?</br>
+			<tr/>
+			<nl>AFSLUITEN EN TERUG NAAR MENU?</nl>
+		</string>
+		<string id="ON" index="16">
+			<en>ON</en>
+			<no>PÅ</no>
+			<sk/>
+			<es>SÍ</es>
+			<cz/>
+			<de>EIN</de>
+			<it>ON</it>
+			<fr>OUI</fr>
+			<ru>ВКЛЮЧИТЬ</ru>
+			<br>ATIV.</br>
+			<tr/>
+			<nl>AAN</nl>
+		</string>
+		<string id="OFF" index="17">
+			<en>OFF</en>
+			<no>AV</no>
+			<sk/>
+			<es>NO</es>
+			<cz/>
+			<de>AUS</de>
+			<it>OFF</it>
+			<fr>NON</fr>
+			<ru>ВЫКЛЮЧИТЬ</ru>
+			<br>DESAT.</br>
+			<tr/>
+			<nl>UIT</nl>
+		</string>
+		<string id="17" index="18">
+			<en>VERSION</en>
+			<no>VERSJON</no>
+			<sk/>
+			<es>VERSIÓN</es>
+			<cz/>
+			<de>VERSION</de>
+			<it>VERSIONE</it>
+			<fr>VERSION</fr>
+			<ru>ВЕРСИЯ</ru>
+			<br>VERSÃO</br>
+			<tr/>
+			<nl>VERSIE</nl>
+		</string>
+		<string id="18" index="19">
+			<en>THIS WILL EXIT THE APPLICATION. ARE YOU SURE?</en>
+			<no>DETTE VIL AVSLUTTE APPEN. ER DU SIKKER?</no>
+			<sk/>
+			<es>SALDRÁS DE LA APLICACIÓN. ¿ESTÁS SEGURO?</es>
+			<cz/>
+			<de>WIRKLICH ANWENDUNG BEENDEN?</de>
+			<it>USCIRAI DALL'APPLICAZIONE. CONFERMI?</it>
+			<fr>CELA FERMERA L'APPLICATION. VOUS ÊTES SÛR(E)?</fr>
+			<ru>ЭТО ПРИВЕДЕТ К ВЫХОДУ ИЗ ИГРЫ. УВЕРЕНЫ ЛИ ВЫ?</ru>
+			<br>ISTO SAIRÁ DO APLICATIVO. TEM CERTEZA?</br>
+			<tr/>
+			<nl>HIERDOOR ZAL JE DE APP VERLATEN. WEET JE HET ZEKER?</nl>
+		</string>
+		<string id="19" index="20">
+			<en>CONTINUE?</en>
+			<no>FORTSETT?</no>
+			<sk/>
+			<es>¿CONTINUAR?</es>
+			<cz/>
+			<de>FORTFAHREN?</de>
+			<it>CONTINUARE?</it>
+			<fr>CONTINUER?</fr>
+			<ru>ПРОДОЛЖИТЬ?</ru>
+			<br>CONTINUAR?</br>
+			<tr/>
+			<nl>DOORGAAN?</nl>
+		</string>
+		<string id="xxxxx1" index="21">
+			<en/>
+			<sk/>
+			<es/>
+			<cz/>
+			<de/>
+			<it/>
+			<fr/>
+			<ru/>
+			<br/>
+			<tr/>
+		</string>
+		<string id="20" index="22">
+			<en>PAUSE</en>
+			<no>PAUSE</no>
+			<sk/>
+			<es>PAUSA</es>
+			<cz/>
+			<de>PAUSE</de>
+			<it>PAUSA</it>
+			<fr>PAUSE</fr>
+			<ru>ПАУЗА</ru>
+			<br>PAUSA</br>
+			<tr/>
+			<nl>PAUZE</nl>
+		</string>
+		<string id="21" index="23">
+			<en>GAME OVER</en>
+			<no>SPILLET ER OVER</no>
+			<sk/>
+			<es>FIN DEL JUEGO</es>
+			<cz/>
+			<de>SPIELENDE</de>
+			<it>GAME OVER</it>
+			<fr>PARTIE TERMINÉE</fr>
+			<ru>ИГРА ОКОНЧЕНА</ru>
+			<br>FIM DE JOGO</br>
+			<tr/>
+			<nl>GAME OVER</nl>
+		</string>
+		<string id="22000" index="24">
+			<en>BEST</en>
+			<no>BESTE</no>
+			<sk/>
+			<es>LO MEJOR</es>
+			<cz/>
+			<de>REKORD</de>
+			<it>MIGLIORE</it>
+			<fr>RECORD</fr>
+			<ru>ЛУЧШИЙ</ru>
+			<br>MELHOR</br>
+			<tr/>
+			<nl>BESTE</nl>
+		</string>
+		<string id="23000" index="25">
+			<en>RETRY?</en>
+			<no>PRØV IGJEN?</no>
+			<sk/>
+			<es>¿VOLVER A INTENTARLO?</es>
+			<cz/>
+			<de>NEUER VERSUCH?</de>
+			<it>RIPROVARE?</it>
+			<fr>RÉESSAYER?</fr>
+			<ru>ПОВТОРИТЬ?</ru>
+			<br>TENTAR NOVAMENTE?</br>
+			<tr/>
+			<nl>OPNIEUW PROBEREN?</nl>
+		</string>
+		<string id="GAME_OVER_TEXT1" index="26">
+			<en>OH DEAR!\nYOU HAVE LOST EVERYTHING!</en>
+			<no>Å KJÆRE!\nDU HAR TAPT ALT SAMMEN!</no>
+			<sk/>
+			<es>¡VAYA!\n¡LO HAS PERDIDO TODO!</es>
+			<cz/>
+			<de>OH JE!\nDU HAST ALLES VERLOREN!</de>
+			<it>OH!\nHAI PERSO TUTTO!</it>
+			<fr>OH, NON!\nVOUS AVEZ TOUT PERDU!</fr>
+			<ru>ОУ, ДОРОГОЙ!\nВЫ ПОТЕРЯЛИ ВСЁ!</ru>
+			<br>OH CÉUS!\nVOCÊ PERDEU TUDO!</br>
+			<tr/>
+			<nl>OH NEE!\nJE HEBT ALLES VERLOREN!</nl>
+		</string>
+		<string id="RESTART_GAME_QUESTION" index="27">
+			<en>RESTART GAME?</en>
+			<no>START SPILLET PÅ NYTT?</no>
+			<sk/>
+			<es>¿REINICIAR PARTIDA?</es>
+			<cz/>
+			<de>MÖCHTEST DU DAS SPIEL ERNEUT STARTEN?</de>
+			<it>VUOI RICOMINCIARE?</it>
+			<fr>RECOMMENCER LE JEU?</fr>
+			<ru>НАЧАТЬ ИГРУ ЗАНОВО?</ru>
+			<br>REINICIAR JOGO?</br>
+			<tr/>
+			<nl>SPEL HERSTARTEN?</nl>
+		</string>
+		<string id="26000" index="28">
+			<en>RULES</en>
+			<no>REGLER</no>
+			<sk/>
+			<es>REGLAS</es>
+			<cz/>
+			<de>REGELN</de>
+			<it>REGOLE</it>
+			<fr>RÈGLES</fr>
+			<ru>ПРАВИЛА</ru>
+			<br>REGRAS</br>
+			<tr/>
+			<nl>SPELREGELS</nl>
+		</string>
+		<string id="27000" index="29">
+			<en>HOW TO PLAY?</en>
+			<no>HVORDAN SPILLE?</no>
+			<sk/>
+			<es>¿CÓMO SE JUEGA?</es>
+			<cz/>
+			<de>ANLEITUNG</de>
+			<it>COME SI GIOCA?</it>
+			<fr>COMMENT JOUER?</fr>
+			<ru>КАК ИГРАТЬ?</ru>
+			<br>COMO JOGAR?</br>
+			<tr/>
+			<nl>HOE KAN JE SPELEN?</nl>
+		</string>
+		<string id="28" index="30">
+			<en>TUTORIAL</en>
+			<no>OPPLÆRING</no>
+			<sk/>
+			<es>TUTORIAL</es>
+			<cz/>
+			<de>TUTORIAL</de>
+			<it>TUTORIAL</it>
+			<fr>TUTORIEL</fr>
+			<ru>РУКОВОДСТВО</ru>
+			<br>TUTORIAL</br>
+			<tr/>
+			<nl>TUTORIAL</nl>
+		</string>
+		<string id="29" index="31">
+			<en>JUST SPIN THE WHEELS USING SPIN BUTTON AND HOPE FOR THE JACKPOT. YOU HAVE TO MATCH 3 SYMBOLS TO WIN.</en>
+			<no>SPINN HJULENE MED SPINNKNAPPEN OG HÅP PÅ JACKPOT. DU MÅ MATCHE 3 SYMBOLER FOR Å VINNE</no>
+			<sk/>
+			<es>HAZ GIRAR LOS RODILLOS CON EL BOTÓN GIRAR Y TOCA MADERA A VER SI CONSIGUES EL JACKPOT. PARA GANAR TIENES QUE SACAR 3 SÍMBOLOS IGUALES.</es>
+			<cz/>
+			<de>DREHE DIE RÄDER MIT DER SCHALTFLÄCHE DREHEN UND HOFFE AUF DEN JACKPOT. DU GEWINNST, WENN 3 GLEICHE SYMBOLE ANGEZEIGT WERDEN.</de>
+			<it>FAI GIRARE LE RUOTE USANDO IL PULSANTE GIRA E SPERA DI VINCERE IL JACKPOT. PER VINCERE DEVI ABBINARE 3 SIMBOLI.</it>
+			<fr>TOURNEZ SIMPLEMENT LES ROUES À L'AIDE DU BOUTON TOURNER ET ESPÉREZ REMPORTER LE JACKPOT. VOUS DEVEZ ALIGNER 3 SYMBOLES POUR GAGNER.</fr>
+			<ru>ПРОСТО КРУТИТЕ КОЛЕСО, ИСПОЛЬЗУЯ КНОПКУ "ВРАЩАТЬ" И НАДЕЙТЕСЬ НА ДЖЕКПОТ. ВАМ ДОЛЖНО СОВПАСТЬ 3 ОДИНАКОВЫХ СИМВОЛА, ЧТОБЫ ВЫИГРАТЬ.</ru>
+			<br>FAÇA RODAR AS RODAS E UTILIZE O BOTÃO SPIN E ESPERE PELO JACKPOT. TEM DE FAZER UMA COMBINAÇÃO DE 3 SÍMBOLOS PARA GANHAR.</br>
+			<tr/>
+			<nl>DRAAI HET RAD MET DE DRAAIKNOP EN HOOP DAT JE DE JACKPOT KRIJGT. JE ZULT 3 SYMBOLEN MOETEN MATCHEN OM TE WINNEN.</nl>
+		</string>
+		<string id="30000" index="32">
+			<en>NEW GAME?</en>
+			<no>NYTT SPILL?</no>
+			<sk/>
+			<es>¿NUEVO JUEGO?</es>
+			<cz/>
+			<de>NEUES SPIEL?</de>
+			<it>NUOVO GIOCO?</it>
+			<fr>NOUVELLE PARTIE?</fr>
+			<ru>НОВАЯ ИГРА?</ru>
+			<br>NOVO JOGO?</br>
+			<tr/>
+			<nl>NIEUW SPEL?</nl>
+		</string>
+		<string id="31" index="33">
+			<en>YOUR CURRENT GAME PROGRESS WILL BE LOST. ARE YOU SURE?</en>
+			<no>DU VIL MISTE NÅVÆRENDE FREMDRIFT I SPILLET. ER DU SIKKER?</no>
+			<sk/>
+			<es>SE PERDERÁ EL PROGRESO ACTUAL DEL JUEGO. ¿ESTÁS SEGURO?</es>
+			<cz/>
+			<de>DEINE AKTUELLEN FORTSCHRITTE GEHEN VERLOREN. FORTFAHREN?</de>
+			<it>I TUOI ATTUALI PROGRESSI DI GIOCO ANDRANNO PERSI. CONFERMI?</it>
+			<fr>VOTRE PROGRESSION ACTUELLE DANS LE JEU SERA PERDUE. VOUS ÊTES SÛR(E)?</fr>
+			<ru>ВАШ ТЕКУЩИЙ ИГРОВОЙ ПРОГРЕСС БУДЕТ ПОТЕРЯН. УВЕРЕНЫ ЛИ ВЫ?</ru>
+			<br>O PROGRESSO ATUAL DE SEU JOGO SERÁ PERDIDO. TEM CERTEZA?</br>
+			<tr/>
+			<nl>JE ZAL JE HUIDIGE SPELVOORUITGANG VERLIEZEN. WEET JE HET ZEKER?</nl>
+		</string>
+		<string id="32" index="35">
+			<en>RULES:\n\nSET BET, PAYLINES AND SPIN WHEELS. IF YOU WIN, RISK YOUR COINS IN DOUBLE CHANCE FOR A BIGGER REWARD. CHECK PAYTAYBLE FOR POSSIBLE WINS. </en>
+			<no>REGLER:\n\nSETT VEDDEMÅL, LINJER OG SPINN HJULENE. HVIS DU VINNER, RISIKER MYNTENE I DOBBELSJANSE FOR EN STØRRE GEVINST. SJEKK UTBETALINGS-TABELL FOR MULIGE GEVINSTER.</no>
+			<sk>aim of the game</sk>
+			<es>REGLAS:\n\nELIGE LA APUESTA, LAS LÍNEAS DE PAGO Y LAS COLUMNAS QUE GIRAN. SI GANAS, PUEDES ARRIESGAR TODO A DOBLE O NADA Y OPTAR A UNA RECOMPENSA MEJOR. CONSULTA LA TABLA DE PAGOS PARA VER LO QUE PUEDES CONSEGUIR.</es>
+			<cz/>
+			<de>REGELN:\n\nSTELL DIE WETTEN UND AUSZAHLUNGSREIHEN EIN UND LASS DANN DIE WALZEN ROLLEN. WENN DU GEWINNST, KANNST DU VERSUCHEN, DIR DURCH VERDOPPELN EINE NOCH GRÖSSERE BELOHNUNG ZU HOLEN. IN DER AUSZAHLUNGSTABELLE SIEHST DU DEINE MÖGLICHEN GEWINNE.</de>
+			<it>REGOLE:\n\nSCOMMETTI, IMPOSTA LE LINEE DI PAGAMENTO E GIRA I RULLI. SE VINCI, RISCHIA LE TUE MONETE NELLA DOPPIA CHANCE PER OTTENERE UNA RICOMPENSA PIÙ GRANDE. CONTROLLA LA TABELLA DEI PAGAMENTI PER EVENTUALI VINCITE.</it>
+			<fr>RÈGLES:\n\nDÉTERMINEZ VOS MISES, LIGNES DE PAIEMENT ET ROUES À TOURNER. SI VOUS GAGNEZ, RISQUEZ VOS PIÈCES POUR DOUBLER VOS CHANCES ET REMPORTER PEUT-ÊTRE UNE PLUS GROSSE RÉCOMPENSE. CONSULTEZ LA TABLE DES GAINS POUR VOIR LES VICTOIRES POSSIBLES. </fr>
+			<ru>ПРАВИЛА:\n\nДЕЛАЙТЕ СТАВКИ, ВЫБИРАЙТЕ ЛИНИИ И КРУТИТЕ. ЕСЛИ ВЫ ВЫИГРАЕТЕ, У ВАС ЕСТЬ ВОЗМОЖНОСТЬ РИСКНУТЬ И УДВОИТЬ СВОЙ ВЫИГРЫШ. ПРОВЕРЬТЕ ВЫГОДНОЕ ПРЕДЛОЖЕНИЕ.</ru>
+			<br>REGRAS:\n\nDEFINA APOSTA, LINHAS DE PAGAMENTO E GIRE AS RODAS. SE VOCÊ GANHAR, ARRISCAR SUAS MOEDAS EM OPORTUNIDADE DUPLA PARA UM PRÊMIO MAIOR. VERIFIQUE A TABELA DE PAGAMENTOS PARA POSSÍVEIS VITÓRIAS. </br>
+			<tr/>
+			<nl>REGELS:\n\nSET BET, WINLIJNEN EN DRAAIWIELEN. ALS JE WINT, RISKEER JE MUNTEN OP EEN DUBBELE KANS VOOR EEN GROTERE BELONING. CONTROLEER DE WINSCHEMA VOOR MOGELIJKE WINST.</nl>
+		</string>
+		<string id="35" index="36">
+			<en>CONTROLS:\n\nTAP THE FOLLOWING ON SCREEN BUTTONS TO CHOOSE CORRESPONDING ACTION:</en>
+			<no>KONTROLLER:\n\nTRYKK PÅ FØLGENDE SKJERMTASTER FOR Å VELGE KORRESPONDERENDE HANDLING:</no>
+			<sk>controls touch</sk>
+			<es>CONTROLES:\n\nTOCA LOS SIGUIENTES BOTONES EN PANTALLA PARA REALIZAR LA ACCIÓN CORRESPONDIENTE:</es>
+			<cz/>
+			<de>STEUERUNG:\n\nDIE BUTTONS AUF DEM DISPLAY ENTSPRECHEN DEN FOLGENDEN AKTIONEN:</de>
+			<it>COMANDI:\n\nTOCCA I SEGUENTI PULSANTI SULLO SCHERMO PER SCEGLIERE L'AZIONE CORRISPONDENTE:</it>
+			<fr>COMMANDES:\n\nTOUCHEZ LES BOUTONS SUIVANTS APPARAISSANT À L'ÉCRAN POUR RÉALISER L'ACTION CORRESPONDANTE:</fr>
+			<ru>КАК УПРАВЛЯТЬ:\n\nНАЖИМАЙТЕ НА СЛЕДУЮЩИЕ КНОПКИ НА ЭКРАНЕ, ЧТОБЫ ВЫПОЛНИТЬ СООТВЕТСТВУЮЩЕЕ ДЕЙСТВИЕ:</ru>
+			<br>CONTROLES:\n\nTOQUE NOS SEGUINTES BOTÕES NA TELA PARA ESCOLHER A AÇÃO CORRESPONDENTE:</br>
+			<tr/>
+			<nl>CONTROLS:\n\nTIK OP DE VOLGENDE SCHERMTOETSEN OM DE BETREFFENDE ACTIE TE KIEZEN:</nl>
+		</string>
+		<string id="36" index="37">
+			<en>CONTROLS:\n\n2 OR NAVIGATION KEY UP - UP IN GAME OR IN MENU\n\n8 OR NAVIGATION KEY DOWN - DOWN IN GAME OR IN MENU\n\n4 OR NAVIGATION KEY LEFT - LEFT IN GAME OR IN MENU\n\n6 OR NAVIGATION KEY RIGHT - RIGHT IN GAME OR IN MENU\n\n5 OR CENTRAL NAVIGATION KEY - SELECT IN GAME OR IN MENU\n\nLEFT SOFT KEY - SELECT\n\nRIGHT SOFT KEY - PAUSE IN GAME, QUIT IN MAIN MENU</en>
+			<no>KONTROLLER:\n\n2 ELLER PILTAST OPP - OPP I SPILLET ELLER I MENY\n\n8 ELLER PILTAST NED - NED I SPILLET ELLER I MENY\n\n4 ELLER PILTAST VENSTRE - VENSTRE I SPILLET ELLER I MENY\n\n6 ELLER PILTAST HØYRE - HØYRE I SPILLET ELLER I MENY\n\n5 ELLER MIDTNAVIGASJONSTAST - VELG I SPILL ELLER I MENY\n\nVENSTRE SKJERMTAST - VELG\n\nHØYRE SKJERMTAST - PAUSE I SPILLET, AVSLUTT I MENY</no>
+			<sk>controls keyboard</sk>
+			<es>CONTROLES:\n\n2 O BOTÓN DE NAVEGACIÓN HACIA ARRIBA - ARRIBA EN EL JUEGO O EN EL MENÚ\n\n8 O BOTÓN DE NAVEGACIÓN HACIA ABAJO - ABAJO EN EL JUEGO O EN EL MENÚ\n\n4 O BOTÓN DE NAVEGACIÓN HACIA LA IZQUIERDA - IZQUIERDA EN EL JUEGO O EN EL MENÚ\n\n6 O BOTÓN DE NAVEGACIÓN HACIA LA DERECHA - DERECHA EN EL JUEGO O EN EL MENÚ\n\n5 O BOTÓN DE NAVEGACIÓN CENTRAL - SELECCIONAR EN EL JUEGO O EN EL MENÚ\n\nBOTÓN DE SELECCIÓN IZQUIERDO - SELECCIONAR\n\nBOTÓN DE SELECCIÓN DERECHO - PAUSA EN EL JUEGO, SALIR EN EL MENÚ PRINCIPAL</es>
+			<cz/>
+			<de>STEUERUNG:\n\n2 ODER NAVIGATIONSTASTE NACH OBEN - CURSOR IM SPIEL ODER MENÜ NACH OBEN BEWEGEN\n\n8 ODER NAVIGATIONSTASTE NACH UNTEN - CURSOR IM SPIEL ODER MENÜ NACH UNTEN BEWEGEN\n\n4 ODER NAVIGATIONSTASTE NACH LINKS - CURSOR IM SPIEL ODER MENÜ NACH LINKS BEWEGEN\n\n6 ODER NAVIGATIONSTASTE NACH RECHTS - CURSOR IM SPIEL ODER MENÜ NACH RECHTS BEWEGEN\n\n5 ODER ZENTRALE NAVIGATIONSTASTE - AUSWAHL IM SPIEL ODER MENÜ\n\nLINKE AUSWAHLTASTE - AUSWAHL\n\nRECHTE AUSWAHLTASTE - PAUSE IM SPIEL, BEENDEN IM HAUPTMENÜ</de>
+			<it>COMANDI:\n\n2 O TASTO DI NAVIGAZIONE SU - SU NEL GIOCO O NEL MENU\n\n8 O TASTO DI NAVIGAZIONE GIÙ - GIÙ NEL GIOCO O NEL MENU\n\n4 O TASTO DI NAVIGAZIONE SINISTRO - SINISTRA NEL GIOCO O NEL MENU\n\n6 O TASTO DI NAVIGAZIONE DESTRO - DESTRA NEL GIOCO O NEL MENU\n\n5 O TASTO DI NAVIGAZIONE CENTRALE - SELEZIONA NEL GIOCO O NEL MENU\n\nTASTO FUNZIONE SINISTRO - SELEZIONA\n\nTASTO FUNZIONE DESTRO - PAUSA NEL GIOCO, ESCI NEL MENU PRINCIPALE</it>
+			<fr>COMMANDES:\n\n2 OU TOUCHE DE NAVIGATION HAUTE - EN HAUT DANS LE JEU OU LE MENU\n\n8 OU TOUCHE DE NAVIGATION BASSE - EN BAS DANS LE JEU OU LE MENU\n\n4 OU TOUCHE DE NAVIGATION GAUCHE - À GAUCHE DANS LE JEU OU LE MENU\n\n6 OU TOUCHE DE NAVIGATION DROITE - À DROITE DANS LE JEU OU LE MENU\n\n5 OU TOUCHE DE NAVIGATION CENTRALE - SÉLECTIONNER DANS LE JEU OU LE MENU\n\nTOUCHE PROGRAMMABLE GAUCHE - SÉLECTIONNER\n\nTOUCHE PROGRAMMABLE DROITE - RETOUR AU MENU, PAUSE</fr>
+			<ru>КАК УПРАВЛЯТЬ:\n\n2 ИЛИ ДЖОЙСТИК ВВЕРХ – ВВЕРХ В ИГРЕ ИЛИ ПО МЕНЮ \n\n 8 ИЛИ ДЖОСТИКОМ ВНИЗ – ВНИЗ В ИГРЕ ИЛИ ПО МЕНЮ \n\n 4 ИЛИ ДЖОЙСТИК ВЛЕВО – ВЛЕВО В ИГРЕ ИЛИ ПО МЕНЮ  \n\n 6 ИЛИ ДЖОЙСТИК ВПРАВО – ВПРАВО В ИГРЕ ИЛИ ПО МЕНЮ  \n\n 5 ИЛИ НАЖАТЬ НА ДЖОЙСТИК – ВЫБРАТЬ В ИГРЕ ИЛИ В МЕНЮ  \n\n ЛЕВАЯ ФУНКЦИОНАЛЬНАЯ КНОПКА – ВЫБРАТЬ В ИГРЕ ИЛИ В МЕНЮ  \n\n ПРАВАЯ ФУНКЦИОНАЛЬНАЯ КНОПКА – ПАУЗА В ИГРЕ, ВЫЙТИ В ГЛАВНОЕ МЕНЮ.</ru>
+			<br>CONTROLES:\n\nTECLA 2 OU DE NAVEGAÇÃO PARA CIMA - PARA CIMA NO JOGO NO MENU\n\nTECLA 8 OU DE NAVEGAÇÃO PARA CIMA - PARA CIMA NO JOGO NO MENU\n\nTECLA 4 OU DE NAVEGAÇÃO À ESQUERDA - À ESQUERDA NO JOGO NO MENU\n\nTECLA 6 OU DE NAVEGAÇÃO À DIREITA - À DIREITA NO JOGO NO MENU\n\n5 OU TECLA DE NAVEGAÇÃO CENTRAL - EM JOGO OU SELECIONAR NO MENU\n\nTECLA DE FUNÇÃO ESQUERDA - SELECIONAR\n\nTECLA DE FUNÇÃO DIREITA - PAUSAR NO JOGO, PAUSAR, SAIR NO MENU PRINCIPAL</br>
+			<tr/>
+			<nl>CONTROLS:\n\n2 OF NAVIGATIETOETS OMHOOG - IN HET SPEL OF IN HET MENU\n\n8 OF NAVIGATIETOETS OMLAAG - OMLAAG IN HET SPEL OF IN HET MENU\n\n4 OF NAVIGATIETOETS LINKS - LINKS IN HET SPEL OF IN HET MENU\n\n6 OF NAVIGATIETOETS RECHTS - RECHTS IN HET SPEL OF IN HET MENU\n\n5 OF CENTRALE NAVIGATIETOETS - SELECTEER IN HET SPEL OF IN HET MENU\n\n LINKER FUNCTIE TOETS - SELECTEER\n\nRECHTER FUNCTIE TOETS - PAUZEER HET SPEL, SLUIT HOOFDMENU</nl>
+		</string>
+		<string id="37" index="38">
+			<en>SPIN - SPIN WHEELS\n\nLINES - CHOOSE PAYLINES\n\n"+" - RAISE YOUR BET\n\n"-" - LOWER YOUR BET\n\nRED (R) - GUESS RED\n\nBLACK (B) - GUESS BLACK\n\nTAKE WIN - TAKE WIN\n\nHOLD - HOLD CORRESPONDING WHEEL\n\nPAYTABLE - SHOW PAYTABLE AND PAYLINES</en>
+			<no>SPINN - SPINN HJULENE\n\nLINJER - VELG GEVINSTLINJER\n\n"+" - ØK BUDET DITT\n\n"-" - SENK BUDET DITT\n\nRØD(R) - GJETT RØD\n\nSORT (S) - GJETT SORT\n\nTA GEVINST - TA GEVINST\n\nHOLD - HOLD KORRESPONDERENDE HJUL\n\nGEVINSTTABELL - VIS GEVINSTTABELL OG GEVINSTLINJER</no>
+			<sk>game controls (touch + keyboard)</sk>
+			<es>GIRAR - GIRAR LAS COLUMNAS\n\nLÍNEAS - ELEGIR LAS LÍNEAS DE PAGO\n\n"+" - SUBIR LA APUESTA\n\n"-" - BAJAR LA APUESTA\n\nROJO (R) - APOSTAR POR ROJO\n\nNEGRO (B) - APOSTAR POR NEGRO\n\nCOGER GANANCIAS - COGER GANANCIAS\n\nMANTENER - MANTENER LA COLUMNA CORRESPONDIENTE\n\nTABLA DE PAGOS - MOSTRAR LA TABLA DE PAGOS Y LAS LÍNEAS DE PAGO</es>
+			<cz/>
+			<de>LOS - WALZEN ANWERFEN\n\nREIHEN - AUSZAHLUNGSGRENZEN\n\n"+" - HÖHERER EINSATZ\n\n"-" - NIEDRIGERER EINSATZ\n\nROT (R) - SETZEN AUF ROT\n\nSCHWARZ (B) - SETZEN AUF SCHWARZ\n\nGEWINN NEHMEN - ANNEHMEN DES GEWINNS\n\nHALTEN - ANHALTEN DER WALZE\n\nAUSZAHLUNGSTABELLE - ANZEIGE DER AUSZAHLUNGSTABELLE UND -REIHEN</de>
+			<it>GIRA - GIRA I RULLI\n\nLINEE - SCEGLI LE LINEE DI PAGAMENTO\n\n"+" - AUMENTA LA TUA PUNTATA\n\n"-" - DIMINUISCI LA TUA PUNTATA\n\nROSSO (R) - PUNTA SUL ROSSO\n\nNERO (B) - PUNTA SUL NERO\n\nPRENDI LA VINCITA - PRENDITI LA VINCITA\n\nMANTIENI - MANTIENI IL RULLO CORRISPONDENTE\n\nTABELLA DEI PAGAMENTI - MOSTRA LA TABELLA DEI PAGAMENTI E LE LINEE DI PAGAMENTO</it>
+			<fr>TOURNER - TOURNER LES ROUES\n\nLIGNES - CHOISIR LES LIGNES DE PAIEMENT\n\n"+" - AUGMENTER VOTRE MISE\n\n"-" - RÉDUIRE VOTRE MISE\n\nROUGE (R) - DEVINER ROUGE\n\nNOIR (B) - DEVINER NOIR\n\nPRENDRE GAINS - PRENDRE LES GAINS\n\nGARDER - GARDER LA ROUE CORRESPONDANTE\n\nTABLE DES GAINS - AFFICHER LA TABLE DES GAINS ET LES LIGNES DE PAIEMENT</fr>
+			<ru>ВРАЩАТЬ – ВРАЩАТЬ СЛОТ-МАШИНУ \n\n ЛИНИИ – ВЫБИРАТЬ ВЫИГРЫШНЫЕ ЛИНИИ\n\n"+" - ПОДНИМАТЬ СВОЮ СТАВКУ\n\n"-" - СНИЖАТЬ СВОЮ СТАВКУ\n\n КРАСНЫЙ (R) ПОСТАВИТЬ НА КРАСНЫЙ \n\n ЧЕРНЫЙ (B) – ПОСТАВИТЬ НА ЧЕРНЫЙ\n\n ЗАБРАТЬ ВЫИГРЫШ – ЗАБЕРИТЕ ВЫИГРЫШ \n\n  ОСТАВИТЬ – НЕ КРУТИТЬ ВЫБРАННОЕ КОЛЕСО \n\n ТАБЛИЦУ – ПОКАЗАТЬ ТАБЛИЦУ ВЫИГРЫШЕЙ</ru>
+			<br>GIRAR - GIRAR AS RODAS\n\nLINHAS - ESCOLHER AS LINHAS DE PAGAMENTO\n\n"+" - AUMENTA SUA APOSTA\n\n"-" - REDUZ SUA APOSTA\n\nVERMELHO (R) - ADIVINHAR VERMELHO\n\nPRETO (B) - ADIVINHAR PRETO\n\nLEVE VENCER - LEVE O QUE VOCE GANHOU\n\nSEGURE - SEGURE A RODA CORRESPONDENTE\n\nTABELA DE PAGAMENTOS - MOSTRA A TABELA DE PAGAMENTO E LINHAS DE PAGAMENTO</br>
+			<tr/>
+			<nl>DRAAI - DRAAIWIELEN\n\nLIJNEN - KIES WINLIJNEN\n\n"+" - VERHOOG JE INZET\n\n"-" -VERLAAG JE INZET\n\nROOD (R) - RAAD ROOD\n\nZWART (B) - RAAD ZWART\n\nKIES WIN - KIES WIN\n\nHOUD VAST  HOUD BETREFFENDE WIEL STIL\n\nWINSCHERM- LAAT WINSCHERM EN WINLIJNEN ZIEN</nl>
+		</string>
+		<string id="SPIN" index="40">
+			<en>SPIN</en>
+			<no>SNURRE</no>
+			<sk/>
+			<es>GIRAR</es>
+			<cz/>
+			<de>LOS</de>
+			<it>GIRA</it>
+			<fr>TOUR.</fr>
+			<ru>ВРАЩАТЬ</ru>
+			<br>GIRAR</br>
+			<tr/>
+			<nl>DRAAIEN</nl>
+		</string>
+		<string id="HOLD" index="41">
+			<en>HOLD</en>
+			<no>HOLD</no>
+			<sk>HOLD - skratka</sk>
+			<es>MAN.</es>
+			<cz/>
+			<de>HALT.</de>
+			<it>MAN.</it>
+			<fr>GARD.</fr>
+			<ru>ОСТАВ.</ru>
+			<br>SEG.</br>
+			<tr/>
+			<nl>VAST.</nl>
+		</string>
+		<string id="WIN" index="42">
+			<en>WIN</en>
+			<no>VINN</no>
+			<sk>WIN - skratka</sk>
+			<es>GAN.</es>
+			<cz/>
+			<de>SIEG</de>
+			<it>VINCI</it>
+			<fr>GAINS</fr>
+			<ru>ПОБЕДА</ru>
+			<br>VEN.</br>
+			<tr/>
+			<nl>WINNEN</nl>
+		</string>
+		<string id="BET" index="43">
+			<en>BET</en>
+			<no>INNSATS</no>
+			<sk>BET - skratka</sk>
+			<es>APU.</es>
+			<cz/>
+			<de>SETZ.</de>
+			<it>PUN.</it>
+			<fr>MISE</fr>
+			<ru>СТАВКА</ru>
+			<br>APO.</br>
+			<tr/>
+			<nl>INZETTEN</nl>
+		</string>
+		<string id="TOTAL" index="44">
+			<en>TOTAL</en>
+			<no>TOTAL</no>
+			<sk>TOTAL - skratka</sk>
+			<es>TOTAL</es>
+			<cz/>
+			<de>GES.</de>
+			<it>TOT.</it>
+			<fr>TOTAL</fr>
+			<ru>ВСЕГО</ru>
+			<br>TOTAL</br>
+			<tr/>
+			<nl>TOTAAL</nl>
+		</string>
+		<string id="COINS" index="45">
+			<en>COINS</en>
+			<no>MYNTER</no>
+			<sk>COINS - skratka</sk>
+			<es>MON.</es>
+			<cz/>
+			<de>MÜNZ.</de>
+			<it>MON.</it>
+			<fr>PIÈC.</fr>
+			<ru>МОНЕТ</ru>
+			<br>MOED.</br>
+			<tr/>
+			<nl>MUNTEN</nl>
+		</string>
+		<string id="44" index="46">
+			<en/>
+			<sk>HOLD</sk>
+			<es>MAN. = MANTENER</es>
+			<cz/>
+			<de>HALT. = HALTEN</de>
+			<it>MAN. = MANTIENI</it>
+			<fr>GARD. = GARDER</fr>
+			<ru>ОСТАВИТЬ</ru>
+			<br>SEG. = SEGURE</br>
+			<tr/>
+			<nl>VAST. = VASTHOUDEN</nl>
+		</string>
+		<string id="45" index="47">
+			<en/>
+			<sk>WIN</sk>
+			<es>GAN. = GANANCIAS</es>
+			<cz/>
+			<de/>
+			<it/>
+			<fr/>
+			<ru></ru>
+			<br>VEN. = VENCER</br>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="46" index="48">
+			<en/>
+			<sk>BET</sk>
+			<es>APU. = APUESTA</es>
+			<cz/>
+			<de>SETZ. = SETZEN</de>
+			<it>PUN. = PUNTA</it>
+			<fr/>
+			<ru></ru>
+			<br>APO. = APOSTA</br>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="47" index="49">
+			<en/>
+			<sk>TOTAL</sk>
+			<es/>
+			<cz/>
+			<de>GES. = GESAMT</de>
+			<it>TOT. = TOTALE</it>
+			<fr/>
+			<ru></ru>
+			<br/>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="48" index="50">
+			<en/>
+			<sk>COINS</sk>
+			<es>MON. = MONEDAS</es>
+			<cz/>
+			<de>MÜNZ. = MÜNZEN</de>
+			<it>MON. = MONETE</it>
+			<fr>PIÈC. = PIÈCES</fr>
+			<ru></ru>
+			<br>MOED. = MOEDAS</br>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="50" index="52">
+			<en/>
+			<sk>SPIN</sk>
+			<es/>
+			<cz/>
+			<de/>
+			<it/>
+			<fr>TOUR. = TOURNER</fr>
+			<ru></ru>
+			<br/>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="51" index="53">
+			<en>COINS</en>
+			<no>MYNTER</no>
+			<sk/>
+			<es>MONEDAS</es>
+			<cz/>
+			<de>MÜNZEN</de>
+			<it>MONETE</it>
+			<fr>PIÈCES</fr>
+			<ru>МОНЕТ</ru>
+			<br>MOEDAS</br>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="xxxxx4" index="54">
+			<en/>
+			<sk/>
+			<es/>
+			<cz/>
+			<de/>
+			<it/>
+			<fr/>
+			<ru/>
+			<br/>
+			<tr/>
+		</string>
+		<string id="55" index="55">
+			<en>YOU WIN</en>
+			<no>DU VINNER</no>
+			<sk/>
+			<es>¡GANAS</es>
+			<cz/>
+			<de>GEWONNEN</de>
+			<it>HAI VINTO</it>
+			<fr>VOUS AVEZ GAGNÉ</fr>
+			<ru>ТЫ ПОБЕДИЛ</ru>
+			<br>VOCÊ GANHA</br>
+			<tr/>
+			<nl>JE HEBT GEWONNEN</nl>
+		</string>
+		<string id="56" index="56">
+			<en>YOU LOSE</en>
+			<no>DU TAPTE</no>
+			<sk/>
+			<es>¡PIERDES</es>
+			<cz/>
+			<de>VERLOREN</de>
+			<it>HAI PERSO</it>
+			<fr>VOUS AVEZ PERDU</fr>
+			<ru>ТЫ ПРОИГРАЛ</ru>
+			<br>VOCÊ PERDE</br>
+			<tr/>
+			<nl>JE HEBT VERLOREN</nl>
+		</string>
+		<string id="57" index="57">
+			<en>CHOOSE CHEST</en>
+			<no>VELG KISTE</no>
+			<sk/>
+			<es>ELIGE COFRE</es>
+			<cz/>
+			<de>TRUHE AUSWÄHLEN</de>
+			<it>SCEGLI CASSA</it>
+			<fr>CHOISIR COFFRE</fr>
+			<ru>ВЫБРАТЬ СУНДУК</ru>
+			<br>ESCOLHA O BAÚ</br>
+			<tr/>
+			<nl>KIES KIST</nl>
+		</string>
+		<string id="RESUME" index="58">
+			<en>RESUME</en>
+			<no>GJENOPPTA</no>
+			<sk/>
+			<es>RETOMAR</es>
+			<cz/>
+			<de>FORTSETZEN</de>
+			<it>RIPRENDI</it>
+			<fr>REPRENDRE</fr>
+			<ru>ПРОДОЛЖИТЬ</ru>
+			<br>RETOMAR</br>
+			<tr/>
+			<nl>SAMENVATTING</nl>
+		</string>
+		<string id="RESET_PROGRESS" index="59">
+			<en>RESET PROGRESS</en>
+			<no>        NULLSTILL        \n        FREMDRIFT        </no>
+			<sk/>
+			<es>   RESTABLECIMIENTO  \n    EN PROGRESO   </es>
+			<cz/>
+			<de>   FORTSCHRITT  \n      ZURÜCKSETZEN     </de>
+			<it>AZZERA PROGRESSI</it>
+			<fr>     RÉINITIALISER     \n     PROGRESSION     </fr>
+			<ru>СБРОСИТЬ ПРОГРЕСС</ru>
+			<br>         REDEFINIR         \n         PROGRESSO         </br>
+			<tr/>
+			<nl>      VOORUITGANG      \n      RESETTEN     </nl>
+		</string>
+		<string id="PAYTABLE" index="61">
+			<en>PAYTABLE</en>
+			<no>GEVINSTTABELL</no>
+			<sk/>
+			<es>TABLA DE PAGOS</es>
+			<cz/>
+			<de>AUSZAHLUNGSTABELLE</de>
+			<it>TABELLA DEI PAGAMENTI</it>
+			<fr>TABLE DES GAINS</fr>
+			<ru>ТАБЛИЦУ ВЫПЛАТ</ru>
+			<br>TABELA DE PAGAMENTOS</br>
+			<tr/>
+			<nl>WINSCHERM</nl>
+		</string>
+		<string id="PAYLINES" index="62">
+			<en>PAYLINES</en>
+			<no>GEVINSTLINJER</no>
+			<sk/>
+			<es>LÍNEAS DE PAGO</es>
+			<cz/>
+			<de>AUSZAHLUNGSREIHEN</de>
+			<it>LINEE DI PAGAMENTO</it>
+			<fr>LIGNES DE PAIEMENT</fr>
+			<ru>ВЫИГРЫШНЫЕ ЛИНИИ</ru>
+			<br>LINHAS DE PAGAMENTO</br>
+			<tr/>
+			<nl>WINLIJNEN</nl>
+		</string>
+		<string id="BONUS" index="63">
+			<en>BONUS</en>
+			<no>BONUS</no>
+			<sk/>
+			<es>BONIFICACIÓN</es>
+			<cz/>
+			<de>BONUS</de>
+			<it>BONUS</it>
+			<fr>BONUS</fr>
+			<ru>БОНУСЫ</ru>
+			<br>BÔNUS</br>
+			<tr/>
+			<nl>BONUS</nl>
+		</string>
+		<string id="FREESPINS" index="64">
+			<en>FREE SPINS</en>
+			<no>GRATISSPINN</no>
+			<sk/>
+			<es>TIRADAS GRATIS</es>
+			<cz/>
+			<de>GRATIS-SPINS</de>
+			<it>GIRI GRATIS</it>
+			<fr>TOURS GRATUITS</fr>
+			<ru>ВРАЩЕНИЙ</ru>
+			<br>GIRADAS GRÁTIS</br>
+			<tr/>
+			<nl>  GRATIS  \n  DRAAIPOGINGEN  </nl>
+		</string>
+		<string id="LINE" index="65">
+			<en>LINE</en>
+			<no>LINJE</no>
+			<sk/>
+			<es>LÍNEA</es>
+			<cz/>
+			<de>REIHE</de>
+			<it>LINEA</it>
+			<fr>LIGNE</fr>
+			<ru>ЛИНИЯ</ru>
+			<br>LINHA</br>
+			<tr/>
+			<nl>LIJN</nl>
+		</string>
+		<string id="LINES" index="66">
+			<en>LINES</en>
+			<no>LINJER</no>
+			<sk/>
+			<es>LÍNEAS</es>
+			<cz/>
+			<de>REIHEN</de>
+			<it>LINEE</it>
+			<fr>LIGNES</fr>
+			<ru>ЛИНИЙ</ru>
+			<br>LINHAS</br>
+			<tr/>
+			<nl>LIJNEN</nl>
+		</string>
+		<string id="67" index="67">
+			<en>TOTAL</en>
+			<no>TOTAL</no>
+			<sk/>
+			<es>TOTAL</es>
+			<cz/>
+			<de>GESAMT</de>
+			<it>TOTALE</it>
+			<fr>TOTAL</fr>
+			<ru>ВСЕГО</ru>
+			<br>TOTAL</br>
+			<tr/>
+			<nl></nl>
+		</string>
+		<string id="TAKE_WIN" index="68">
+			<en>TAKE WIN</en>
+			<no>TA GEVINST</no>
+			<sk/>
+			<es>COGER GANANCIAS</es>
+			<cz/>
+			<de>GEWINN NEHMEN</de>
+			<it>PRENDI LA VINCITA</it>
+			<fr>PRENDRE GAINS</fr>
+			<ru>ПОЛУЧИТЬ ВЫИГРЫШ</ru>
+			<br>LEVE O QUE GANHOU</br>
+			<tr/>
+			<nl>KIES WINNEN</nl>
+		</string>
+		<string id="TAKE_WIN_NEW" index="69">
+			<en>TAKE\nWIN</en>
+			<no>TA\nGEVINST</no>
+			<sk>TAKE WIN new</sk>
+			<es>COGER\nGANAN</es>
+			<cz/>
+			<de>GEWINN\nNEHMEN</de>
+			<it>PRENDI\nVINCITA</it>
+			<fr>PREND\nGAINS</fr>
+			<ru>ПОЛУЧИТЬ\nВЫИГРЫШ</ru>
+			<br>LEVE\nVENCER</br>
+			<tr/>
+			<nl>KIES\nWINNEN</nl>
+		</string>
+		<string id="SPINS" index="70">
+			<en>SPINS</en>
+			<no>SPINN</no>
+			<sk/>
+			<es>TIRADAS</es>
+			<cz/>
+			<de>SPINS</de>
+			<it>GIRI</it>
+			<fr>TOURS</fr>
+			<ru>КРУТИТЬ</ru>
+			<br>GIRADAS</br>
+			<tr/>
+			<nl>DRAAIPOGINGEN</nl>
+		</string>
+		<string id="ANY" index="71">
+			<en>ANY</en>
+			<no>ALLE</no>
+			<sk/>
+			<es>CUALQUIERA</es>
+			<cz/>
+			<de>BELIEBIG</de>
+			<it>QUALSIASI</it>
+			<fr>N'IMPORTE \nLEQUEL </fr>
+			<ru>ЛЮБОЙ</ru>
+			<br>QUALQUER</br>
+			<tr/>
+			<nl>ELKE</nl>
+		</string>
+		<string id="BONUS_GAME" index="72">
+			<en>BONUS GAME</en>
+			<no>BONUSSPILL</no>
+			<sk/>
+			<es>PARTIDA DE BONIFICACIÓN</es>
+			<cz/>
+			<de>BONUSSPIEL</de>
+			<it>PARTITA BONUS</it>
+			<fr>PARTIE BONUS</fr>
+			<ru>БОНУСНАЯ ИГРА</ru>
+			<br>JOGO DE BÔNUS</br>
+			<tr/>
+			<nl>BONUS SPEL</nl>
+		</string>
+		<string id="72" index="73">
+			<en/>
+			<sk/>
+			<es/>
+			<cz/>
+			<de/>
+			<it/>
+			<fr/>
+			<ru/>
+			<br/>
+			<tr/>
+		</string>
+
+		<string id="73" index="74">
+			<en>WELCOME IN</en>
+			<no>VELKOMMEN INN</no>
+			<sk>tutorial 1</sk>
+			<es>BIENVENIDO A</es>
+			<cz/>
+			<de>WILLKOMMEN BEI</de>
+			<it>BENVENUTO A</it>
+			<fr>BIENVENUE À</fr>
+			<ru>ДОБРО ПОЖАЛОВАТЬ В</ru>
+			<br>BEM-VINDO A</br>
+			<tr/>
+			<nl>WELKOM BIJ</nl>
+		</string>
+		<string id="74" index="75">
+			<en>HERE IS YOUR COINS BALANCE.</en>
+			<no>HER ER MYNTSUMMEN DIN.</no>
+			<sk>tutorial 2</sk>
+			<es>ESTE ES TU SALDO EN MONEDAS.</es>
+			<cz/>
+			<de>HIER IST DEIN KONTOSTAND.</de>
+			<it>ECCO IL TUO SALDO MONETE.</it>
+			<fr>VOICI VOTRE SOLDE DE PIÈCES.</fr>
+			<ru>ЗДЕСЬ ВАШ БАЛАНС МОНЕТ.</ru>
+			<br>AQUI ESTÁ SEU SALDO EM MOEDAS.</br>
+			<tr/>
+			<nl>HIER HEB JE JE MUNTENBALANS</nl>
+		</string>
+		<string id="75" index="76">
+			<en>WITH LINES YOU CHOOSE THE NUMBER OF PAYLINES.</en>
+			<no>MED LINJER VELGER DU ANTALL GEVINSTLINJER</no>
+			<sk>tutorial 3</sk>
+			<es>CON LAS LÍNEAS, PUEDES ELEGIR LA CANTIDAD DE LÍNEAS DE PAGO.</es>
+			<cz/>
+			<de>ÜBER DIE REIHEN WÄHLST DU DIE ZAHL DER AUSZAHLUNGSREIHEN.</de>
+			<it>CON LE LINEE PUOI SCEGLIERE IL NUMERO DELLE LINEE DI PAGAMENTO.</it>
+			<fr>AVEC LES LIGNES, VOUS CHOISISSEZ LE NOMBRE DE LIGNES DE PAIEMENT.</fr>
+			<ru>С ПОМОЩЬЮ ЛИНИЙ ВЫ ВЫБИРАЕТЕ ОПРЕДЕЛЕННУЮ ВЫИГРАШНУЮ ЛИНИЮ.</ru>
+			<br>COM LINHAS VOCÊ ESCOLHE SEU NÚMERO DE LINHAS.</br>
+			<tr/>
+			<nl>MET DE LIJNEN KIES JE HET AANTAL WINLIJNEN.</nl>
+		</string>
+		<string id="76" index="77">
+			<en>WITH HIGHER VALUE YOU HAVE HIGHER CHANCE TO WIN MORE COINS.</en>
+			<no>MED HØYERE VERDI HAR DU HØYERE SJANSE TIL Å VINNER FLERE MYNTER.</no>
+			<sk>tutorial 4</sk>
+			<es>CUANTO MAYOR SEA EL VALOR, MÁS PROBABILIDADES TENDRÁS DE GANAR MONEDAS.</es>
+			<cz/>
+			<de>BEI HÖHEREN WERTEN HAST DU EINE GRÖSSERE CHANCE, MEHR MÜNZEN ZU GEWINNEN.</de>
+			<it>CON UN VALORE PIÙ ALTO AVRAI PIÙ POSSIBLITÀ DI VINCERE PIÙ MONETE.</it>
+			<fr>AVEC UNE VALEUR PLUS ÉLEVÉE, VOUS AVEZ PLUS DE CHANCES DE GAGNER PLUS DE PIÈCES.</fr>
+			<ru>ЕСЛИ ВЫ ВЛОЖИТЕ БОЛЬШЕ МОНЕТ У ВАС БУДЕТ БОЛЬШЕ ШАНСОВ ЗАРАБОТАТЬ БОЛЬШЕ МОНЕТ.</ru>
+			<br>COM UM VALOR MAIOR VOCÊ MAIOR CHANCE DE GANHAR MAIS MOEDAS.</br>
+			<tr/>
+			<nl>MET EEN HOGERE WAARDE HEB JE MEER KANS OM MEER MUNTEN TE WINNEN.</nl>
+		</string>
+		<string id="77" index="78">
+			<en>SET IT TO 9.</en>
+			<no>SETT DEN TIL 9.</no>
+			<sk>tutorial 5</sk>
+			<es>ELIGE 9.</es>
+			<cz/>
+			<de>STELL DEN WERT AUF 9 EIN.</de>
+			<it>IMPOSTALA SU 9.</it>
+			<fr>RÉGLEZ-LA SUR 9.</fr>
+			<ru>УСТАНОВИТЕ ЭТО НА 9.</ru>
+			<br>DEFINA PARA 9.</br>
+			<tr/>
+			<nl>PLAATS HET OP 9</nl>
+		</string>
+		<string id="78" index="79">
+			<en>WITH + OR - YOU SET BET ON 1 PAYLINE.</en>
+			<no>MED + ELLER - SETTER DU BUD PÅ 1 GEVINSTLINJE.</no>
+			<sk>tutorial 6</sk>
+			<es>CON + Y - DETERMINAS LA APUESTA DE UNA LÍNEA DE PAGO.</es>
+			<cz/>
+			<de>MIT + ODER - SETZT DU AUF EINE AUSZAHLUNGSREIHE.</de>
+			<it>CON + O - METTI LA PUNTATA SU 1 LINEA DI PAGAMENTO.</it>
+			<fr>AVEC + OU - VOUS DÉFINISSEZ VOTRE MISE SUR 1 LIGNE DE PAIEMENT.</fr>
+			<ru>С ПОМОЩЬЮ + ИЛИ – ВЫ УСТАНАВЛИВАЕТЕ НУЖНУЮ ЛИНИЮ.</ru>
+			<br>COM + OU - VOCÊ DEFINE APOSTA EM 1 LINHA DE PAGAMENTO.</br>
+			<tr/>
+			<nl>MET + OF - PLAATS JE JE INZET OP 1 WINLIJN.</nl>
+		</string>
+		<string id="79" index="80">
+			<en>SET IT TO 5.</en>
+			<no>SETT DEN TIL 5.</no>
+			<sk>tutorial 7</sk>
+			<es>ELIGE 5.</es>
+			<cz/>
+			<de>STELL DEN WERT AUF 5 EIN.</de>
+			<it>IMPOSTALA SU 5.</it>
+			<fr>RÉGLEZ-LA SUR 5.</fr>
+			<ru>УСТАНОВИТЕ ЭТО НА 5.</ru>
+			<br>DEFINA PARA 5.</br>
+			<tr/>
+			<nl>PLAATS HET OP 5</nl>
+		</string>
+		<string id="80" index="81">
+			<en>TOTAL BET WAS CHANGED.</en>
+			<no>DET TOTALE BUDET BLE ENDRET</no>
+			<sk>tutorial 8</sk>
+			<es>SE HA CAMBIADO LA APUESTA TOTAL.</es>
+			<cz/>
+			<de>DIE GESAMTWETTE WURDE GEÄNDERT.</de>
+			<it>LA PUNTATA TOTALE È CAMBIATA.</it>
+			<fr>LA MISE TOTALE A ÉTÉ CHANGÉE.</fr>
+			<ru>СУМАРНАЯ СТАВКА ИЗМЕНЕНА.</ru>
+			<br>A APOSTA TOTAL FOI MUDADA.</br>
+			<tr/>
+			<nl>TOTALE INZET IS VERANDERD</nl>
+		</string>
+		<string id="81" index="82">
+			<en>TAP SPIN.</en>
+			<no>TRYKK PÅ SPINN.</no>
+			<sk>tutorial 9</sk>
+			<es>TOCA GIRAR.</es>
+			<cz/>
+			<de>TIPPE DIE OPTION LOS AN.</de>
+			<it>TOCCA GIRA.</it>
+			<fr>TOUCHEZ POUR TOURNER.</fr>
+			<ru>НАЖМИТЕ ЧТО БЫ ВРАЩАТЬ.</ru>
+			<br>TOQUE PARA GIRAR.</br>
+			<tr/>
+			<nl>TIK DRAAIEN</nl>
+		</string>
+		<string id="82" index="83">
+			<en>AFTER WIN YOU CAN TAKE WIN OR YOU HAVE CHANCE TO MULTIPLE YOUR WIN.</en>
+			<no>ETTER EN GEVINST KAN DU TA GEVINSTEN ELLER FÅ EN SJANSE TIL Å MULTIPLISERE GEVINSTEN.</no>
+			<sk>tutorial 10</sk>
+			<es>CUANDO GANES, PUEDES LLEVARTE EL PREMIO O MULTIPLICAR LAS GANANCIAS.</es>
+			<cz/>
+			<de>NACH EINEM SIEG KANNST DU DEN GEWINN EINSTREICHEN ODER DIE CHANCE ZUR VERVIELFACHUNG NUTZEN.</de>
+			<it>DOPO CHE HAI VINTO, PUOI PRENDERE LA VINCITA O AVERE LA POSSIBLITÀ DI MOLTIPLICARE LA TUA VINCITA.</it>
+			<fr>APRÈS UNE VICTOIRE, VOUS POUVEZ PRENDRE VOS GAINS OU VOUS AVEZ LA POSSIBILITÉ DE LES MULTIPLER.</fr>
+			<ru>ПОСЛЕ ВЫИГРАША ВЫ МОЖЕТЕ ЗАБРАТЬ ВЫИГРЫШ ИЛИ ПОПРОБЫВАТЬ УДАЧУ И УМНОЖИТЬ СВОЙ ВЫИГРЫШ.</ru>
+			<br>DEPOIS DE GANHAR VOCÊ PODE RECEBER O QUE GANHOU OU VOCÊ TEM A CHANCE DE MULTIPLICAR O QUE GANHOU.</br>
+			<tr/>
+			<nl>NA WINST KUN JE KIEZEN VOOR WINNEN OF HEB JE OOK DE KANS OM JE WINST TE VERDUBBELEN.</nl>
+		</string>
+		<string id="83" index="84">
+			<en>YOU CAN GUESS THE COLOR OF NEXT CARD.</en>
+			<no>DU KAN GJETTE FARGEN PÅ DET NESTE KORTET.</no>
+			<sk>tutorial 11</sk>
+			<es>ADIVINA EL COLOR DE LA SIGUIENTE CARTA.</es>
+			<cz/>
+			<de>DU KANNST AUF DIE NÄCHSTE FARBE TIPPEN.</de>
+			<it>PUOI INDOVINARE IL COLORE DELLA PROSSIMA CARTA.</it>
+			<fr>VOUS POUVEZ DEVINER LA COULEUR DE LA CARTE SUIVANTE.</fr>
+			<ru>ВЫ МОЖЕТЕ УГАДАТЬ ЦВЕТ СЛЕДУЮЩЕЙ КАРТЫ.</ru>
+			<br>VOCÊ PODE ADIVINHAR A COR DO PRÓXIMO CARTÃO.</br>
+			<tr/>
+			<nl>JE KUNT DE KLEUR VAN DE VOLGENDE KAART RADEN.</nl>
+		</string>
+		<string id="84" index="85">
+			<en>TAP ON THE BLACK OR RED.</en>
+			<no>TRYKK PÅ SORT ELLER RØD.</no>
+			<sk>tutorial 12</sk>
+			<es>TOCA EL NEGRO (B) O EL ROJO (R).</es>
+			<cz/>
+			<de>TIPPE AUF SCHWARZ (B) ODER ROT (R).</de>
+			<it>TOCCA SUL NERO (B) O SUL ROSSO (R).</it>
+			<fr>TOUCHEZ LE NOIR (B) OU LE ROUGE (R).</fr>
+			<ru>НАЖМИТЕ НА ЧЕРНЫЙ (B) ИЛИ КРАСНЫЙ (R).</ru>
+			<br>TOQUE NO PRETO (B) OU VERMELHO (R).</br>
+			<tr/>
+			<nl>TIK OP DE ZWARTE OF RODE.</nl>
+		</string>
+		<string id="85" index="86">
+			<en>NOW TAKE YOUR WIN.</en>
+			<no>TA GEVINSTEN DIN NÅ.</no>
+			<sk>tutorial 13</sk>
+			<es>AHORA COGE LAS GANANCIAS.</es>
+			<cz/>
+			<de>STREICH JETZT DEINEN GEWINN EIN.</de>
+			<it>ORA PRENDI LA TUA VINCITA.</it>
+			<fr>MAINTENANT PRENEZ VOS GAINS.</fr>
+			<ru>ТЕПЕРЬ ВОЗЬМИТЕ ВАШ ВЫИГРЫШ.</ru>
+			<br>AGORA LEVE O QUE GANHOU.</br>
+			<tr/>
+			<nl>HAAL JE WINST OP.</nl>
+		</string>
+		<string id="86" index="87">
+			<en>SEE PAYTABLE.</en>
+			<no>SE GEVINSTTABELL.</no>
+			<sk>tutorial 14</sk>
+			<es>CONSULTAR TABLA DE PAGOS.</es>
+			<cz/>
+			<de>RUF DIE AUSZAHLUNGSTABELLE AUF.</de>
+			<it>VEDI LA TABELLA DEI PAGAMENTI.</it>
+			<fr>CONSULTEZ LA TABLE DES GAINS.</fr>
+			<ru>СМОТРЕТЬ ТАБЛИЦУ ВЫПЛАТ.</ru>
+			<br>VEJA A TABELA DE PAGAMENTOS.</br>
+			<tr/>
+			<nl>BEKIJK WINSCHERM.</nl>
+		</string>
+		<string id="87" index="88">
+			<en>HERE ARE WINNING MULTIPLIER.</en>
+			<no>HER ER GEVINSTMULTIPLIKATOREN.</no>
+			<sk>tutorial 15</sk>
+			<es>AQUÍ SE INDICA EL MULTIPLICADOR DE LAS GANANCIAS.</es>
+			<cz/>
+			<de>SIEGREICHER MULTIPLIKATOR.</de>
+			<it>QUI CI SONO I MOLTIPLICATORI VINCENTI.</it>
+			<fr>VOICI LE MULTIPLICATEUR DE GAINS.</fr>
+			<ru>ЗДЕСЬ ВЫИГРАШНЫЕ МНОЖИТЕЛИ.</ru>
+			<br>AQUI ESTÁ O MULTIPLICADOR DE GANHOS.</br>
+			<tr/>
+			<nl>HIER HEB JE WINST VERMENIGVULDIGER</nl>
+		</string>
+		<string id="OPTIONS" index="89">
+			<en>OPTIONS</en>
+			<no>VALG</no>
+			<sk>NASTAVENIA</sk>
+			<es>AJUSTES</es>
+			<cz>NASTAVENÍ</cz>
+			<de>EINSTELLUNGEN</de>
+			<it>IMPOSTAZIONI</it>
+			<fr>OPTIONS</fr>
+			<ru>ОПЦИИ</ru>
+			<br>OPÇÕES</br>
+			<nl>OPTIES</nl>
+		</string>
+		<string id="LANGUAGES" index="90">
+			<en>LANGUAGES</en>
+			<no>SPRÅK</no>
+			<es>IDIOMAS</es>
+			<de>SPRACHEN</de>
+			<it>LINGUE</it>
+			<fr>LANGUES</fr>
+			<br>IDIOMAS</br>
+			<ru>ЯЗЫКИ</ru>
+			<nl>TALEN</nl>
+		</string>
+	</strings>
+</stringresources>
